@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightsteelblue;
+  height: 100vh;
+  padding: 10px;
+}
+.heading1 {
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
+.heading2 {
+  font-size: 20px;
+  text-align: left;
+  color: black;
+}
+.paragraph {
+  text-align: left;
+  margin-left: 20px;
+  color: ;
+}
